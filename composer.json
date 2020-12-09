@@ -1,5 +1,5 @@
 {
-    "name": "evrinoma/user-bundle",
+    "name": "jomolinap/user-bundle",
     "type": "symfony-bundle",
     "description": "Symfony FOSUserBundle",
     "keywords": [
